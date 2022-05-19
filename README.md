@@ -15,5 +15,14 @@ Data Science Codes
 #### Kodları bu şekilde açarak inceleyebilirsiniz. Soru sormak isterseniz bana mail adresimden yazabilirsiniz. Sorunları beraber çözmekten zevk duyarım.
 #### Mail : ozanberkay34@gmail.com
 
-## Bu dosyanın içeriği şu şekilde: 
-#### • 
+## İçindekiler:
+#### • Numpy
+#### • Pandas
+#### • Keşifçi Veri Analizi ve Veri Görselleştirme
+#### • Veri Bilimi İçin İstatistik
+#### • Veri Ön İşleme 
+#### • Makine Öğrenmesi 2 - Doğrusal Regresyon ve Kuzenleri
+#### • Makine Öğrenmesi 3 - Doğrusal Olmayan Regresyon Modelleri
+#### • Makine Öğrenmesi 4 - Sınıflandırma Problemleri
+#### • Makine Öğrenmesi 5 - Gözetimsiz Öğrenme
+#### • Büyük Veri Analitiği ( Tam Anlamı ile Bitiremedim )
