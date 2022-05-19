@@ -13,6 +13,9 @@ Data Science Codes
 
 #### You can open the codes in this way and examine them. If you want to ask a question, you can write to me at my e-mail address. I enjoy solving problems together.
 #### Kodları bu şekilde açarak inceleyebilirsiniz. Soru sormak isterseniz bana mail adresimden yazabilirsiniz. Sorunları beraber çözmekten zevk duyarım.
+
+![Uploading 2.gif…]()
+
 #### Mail : ozanberkay34@gmail.com
 
 ## İçindekiler:
